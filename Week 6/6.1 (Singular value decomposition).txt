@@ -1,1 +1,4 @@
-
+1) The statement that the inner product of two complex vectors is always commutative is ?
+>>True
+>>False
+Ans: False
