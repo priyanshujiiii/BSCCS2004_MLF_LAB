@@ -11,3 +11,9 @@
         A^T^T = A
         (AB)^T=A^T*B^T
    # Inner Product = x.y = x*y
+ 
+ 2) Hermintian Matrix
+    If matrix A* = A then it is a Hermintian Matrix.
+    
+   # Properties of hermintian matrix
+        Diagonal values of Hermintian matrix is always real.
