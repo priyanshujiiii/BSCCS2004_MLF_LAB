@@ -16,4 +16,12 @@
     If matrix A* = A then it is a Hermintian Matrix.
     
    # Properties of hermintian matrix
-        Diagonal values of Hermintian matrix is always real.
+        1) Diagonal values of Hermintian matrix is always real.
+        2) If a is hermintian matrix then the distinct eigen values are orthogonal.
+   
+   # Remarks
+        1) The equivalent of hermintian matrix in the "real" case its "real symmetric matrix"
+           all real symmetric matrix are hermintian.
+        2) If no eigen values is repeated (=we havent distinct eigen values for n*n matrix A),then
+            A is digonziable 
+        3) if x and y are orthogonal then{x,y} it is linearly independent set 
