@@ -42,3 +42,13 @@
         6) Real case: For a real symmetric matrix A, we can find a orthogonal matrix Q = (Q^T * Q = I)
            such that A= Q λ Q^T
         
+4) Diagonlization of matrix
+   A matrix is unitary diagozibable if there exists a unitary matrix U s.t 
+   A = U λ U* , WHEN λ IS Diagonizable.
+   Therome : A hermintian matrix is unitary diagonizable.
+   Approach: 1) Show that any n x n matrix is similar to an upper triangular matrix,...i.e
+   A = U T U*
+   2) Using 1 we , show that a hermintian matrix is unitary diagonizable.schur's therome
+   
+   Schur's A = n * n matrix A is similar to an upper triangular matrix T,. i.e, there exists
+   unitary matrix U s.t
