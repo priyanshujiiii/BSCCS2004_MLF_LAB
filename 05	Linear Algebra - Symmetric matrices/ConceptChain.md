@@ -25,3 +25,20 @@
         2) If no eigen values is repeated (=we havent distinct eigen values for n*n matrix A),then
             A is digonziable 
         3) if x and y are orthogonal then{x,y} it is linearly independent set 
+
+3) Unitary Matrix
+        A matrix is said to be unitary matrix   if it is square and has orthonomal columns
+        Real case Q^T * Q = I
+        COMPLEX CASE: U* * U = I, U^-1 = U*
+        
+        
+        # PROPERTIES OF UNITARY MATRIX 
+        1) Length remain unchanged ||Ux|| = ||U||
+        2) Eigenvalues of a unitary matrix U have absolute value 
+        3) if λ is an value of U,then |λ| = 1 
+        4) Eigenvector corresponding to different eigenvalues of unitary matrix U are orthogonal
+        5) For a Hermintian matrix A, we can find a unitary matrix U s.t
+            A = U λ U* ,λ is a diagonal matrix with eigen values pf A.
+        6) Real case: For a real symmetric matrix A, we can find a orthogonal matrix Q = (Q^T * Q = I)
+           such that A= Q λ Q^T
+        
